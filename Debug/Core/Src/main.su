@@ -1,0 +1,15 @@
+main.c:92:6:get_vpp	24	static
+main.c:168:6:HAL_ADC_ConvCpltCallback	16	static
+main.c:173:6:init_adc_val	16	static
+main.c:197:6:getTrueADCResult	4	static
+main.c:206:6:getRinAndRoutAndGainResult	4	static
+main.c:213:6:getDetectNeed	4	static
+main.c:222:6:getScanNeed	4	static
+main.c:229:6:averageDetet	24	static
+main.c:246:6:checkError	8	static
+main.c:316:6:getvalue	16	static
+main.c:366:6:ScanFreq	840	static
+main.c:442:6:HAL_UART_RxCpltCallback	16	static
+main.c:465:5:main	8	static
+main.c:542:6:SystemClock_Config	88	static
+main.c:589:6:Error_Handler	4	static,ignoring_inline_asm
